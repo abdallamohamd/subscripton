@@ -1,0 +1,123 @@
+[
+  {
+    "ContainingType": "Webapi.Controllers.planController",
+    "Method": "show",
+    "RelativePath": "api/plan",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Webapi.Controllers.planController",
+    "Method": "add",
+    "RelativePath": "api/plan",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "plandto",
+        "Type": "Webapi.dto.plandto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Webapi.Controllers.planController",
+    "Method": "edite",
+    "RelativePath": "api/plan",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "plandto",
+        "Type": "Webapi.dto.plandto",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Webapi.Controllers.planController",
+    "Method": "delete",
+    "RelativePath": "api/plan",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Webapi.Controllers.planController",
+    "Method": "show_all",
+    "RelativePath": "api/plan/all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Webapi.Controllers.subscriptionController",
+    "Method": "show_all",
+    "RelativePath": "api/subscription",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Webapi.Controllers.userController",
+    "Method": "login",
+    "RelativePath": "api/user/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "logindto",
+        "Type": "Webapi.dto.logindto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Webapi.Controllers.userController",
+    "Method": "regester",
+    "RelativePath": "api/user/regester",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "regesterdto",
+        "Type": "Webapi.dto.regesterdto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

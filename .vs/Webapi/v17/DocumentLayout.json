@@ -1,0 +1,355 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\mohamed mahdy\\c#\\Webapi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4AEEC8E-F907-4DDA-95C4-598502EBF32E}|Webapi\\Webapi.csproj|e:\\mohamed mahdy\\c#\\webapi\\webapi\\controllers\\subscriptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4AEEC8E-F907-4DDA-95C4-598502EBF32E}|Webapi\\Webapi.csproj|solutionrelative:webapi\\controllers\\subscriptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4AEEC8E-F907-4DDA-95C4-598502EBF32E}|Webapi\\Webapi.csproj|e:\\mohamed mahdy\\c#\\webapi\\webapi\\controllers\\plancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4AEEC8E-F907-4DDA-95C4-598502EBF32E}|Webapi\\Webapi.csproj|solutionrelative:webapi\\controllers\\plancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4AEEC8E-F907-4DDA-95C4-598502EBF32E}|Webapi\\Webapi.csproj|e:\\mohamed mahdy\\c#\\webapi\\webapi\\dto\\sublistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4AEEC8E-F907-4DDA-95C4-598502EBF32E}|Webapi\\Webapi.csproj|solutionrelative:webapi\\dto\\sublistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4AEEC8E-F907-4DDA-95C4-598502EBF32E}|Webapi\\Webapi.csproj|e:\\mohamed mahdy\\c#\\webapi\\webapi\\repo\\subsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4AEEC8E-F907-4DDA-95C4-598502EBF32E}|Webapi\\Webapi.csproj|solutionrelative:webapi\\repo\\subsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4AEEC8E-F907-4DDA-95C4-598502EBF32E}|Webapi\\Webapi.csproj|e:\\mohamed mahdy\\c#\\webapi\\webapi\\models\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4AEEC8E-F907-4DDA-95C4-598502EBF32E}|Webapi\\Webapi.csproj|solutionrelative:webapi\\models\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4AEEC8E-F907-4DDA-95C4-598502EBF32E}|Webapi\\Webapi.csproj|e:\\mohamed mahdy\\c#\\webapi\\webapi\\dto\\subdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4AEEC8E-F907-4DDA-95C4-598502EBF32E}|Webapi\\Webapi.csproj|solutionrelative:webapi\\dto\\subdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4AEEC8E-F907-4DDA-95C4-598502EBF32E}|Webapi\\Webapi.csproj|e:\\mohamed mahdy\\c#\\webapi\\webapi\\repo\\planrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4AEEC8E-F907-4DDA-95C4-598502EBF32E}|Webapi\\Webapi.csproj|solutionrelative:webapi\\repo\\planrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4AEEC8E-F907-4DDA-95C4-598502EBF32E}|Webapi\\Webapi.csproj|e:\\mohamed mahdy\\c#\\webapi\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4AEEC8E-F907-4DDA-95C4-598502EBF32E}|Webapi\\Webapi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4AEEC8E-F907-4DDA-95C4-598502EBF32E}|Webapi\\Webapi.csproj|e:\\mohamed mahdy\\c#\\webapi\\webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4AEEC8E-F907-4DDA-95C4-598502EBF32E}|Webapi\\Webapi.csproj|solutionrelative:webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4AEEC8E-F907-4DDA-95C4-598502EBF32E}|Webapi\\Webapi.csproj|e:\\mohamed mahdy\\c#\\webapi\\webapi\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4AEEC8E-F907-4DDA-95C4-598502EBF32E}|Webapi\\Webapi.csproj|solutionrelative:webapi\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4AEEC8E-F907-4DDA-95C4-598502EBF32E}|Webapi\\Webapi.csproj|e:\\mohamed mahdy\\c#\\webapi\\webapi\\repo\\isubsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4AEEC8E-F907-4DDA-95C4-598502EBF32E}|Webapi\\Webapi.csproj|solutionrelative:webapi\\repo\\isubsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4AEEC8E-F907-4DDA-95C4-598502EBF32E}|Webapi\\Webapi.csproj|e:\\mohamed mahdy\\c#\\webapi\\webapi\\repo\\iplanrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4AEEC8E-F907-4DDA-95C4-598502EBF32E}|Webapi\\Webapi.csproj|solutionrelative:webapi\\repo\\iplanrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4AEEC8E-F907-4DDA-95C4-598502EBF32E}|Webapi\\Webapi.csproj|e:\\mohamed mahdy\\c#\\webapi\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E4AEEC8E-F907-4DDA-95C4-598502EBF32E}|Webapi\\Webapi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4AEEC8E-F907-4DDA-95C4-598502EBF32E}|Webapi\\Webapi.csproj|e:\\mohamed mahdy\\c#\\webapi\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E4AEEC8E-F907-4DDA-95C4-598502EBF32E}|Webapi\\Webapi.csproj|solutionrelative:webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4AEEC8E-F907-4DDA-95C4-598502EBF32E}|Webapi\\Webapi.csproj|e:\\mohamed mahdy\\c#\\webapi\\webapi\\dto\\regesterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4AEEC8E-F907-4DDA-95C4-598502EBF32E}|Webapi\\Webapi.csproj|solutionrelative:webapi\\dto\\regesterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4AEEC8E-F907-4DDA-95C4-598502EBF32E}|Webapi\\Webapi.csproj|e:\\mohamed mahdy\\c#\\webapi\\webapi\\dto\\plandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4AEEC8E-F907-4DDA-95C4-598502EBF32E}|Webapi\\Webapi.csproj|solutionrelative:webapi\\dto\\plandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4AEEC8E-F907-4DDA-95C4-598502EBF32E}|Webapi\\Webapi.csproj|e:\\mohamed mahdy\\c#\\webapi\\webapi\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4AEEC8E-F907-4DDA-95C4-598502EBF32E}|Webapi\\Webapi.csproj|solutionrelative:webapi\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4AEEC8E-F907-4DDA-95C4-598502EBF32E}|Webapi\\Webapi.csproj|e:\\mohamed mahdy\\c#\\webapi\\webapi\\models\\plan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4AEEC8E-F907-4DDA-95C4-598502EBF32E}|Webapi\\Webapi.csproj|solutionrelative:webapi\\models\\plan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4AEEC8E-F907-4DDA-95C4-598502EBF32E}|Webapi\\Webapi.csproj|e:\\mohamed mahdy\\c#\\webapi\\webapi\\models\\appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4AEEC8E-F907-4DDA-95C4-598502EBF32E}|Webapi\\Webapi.csproj|solutionrelative:webapi\\models\\appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "sublistdto.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\Webapi\\Webapi\\dto\\sublistdto.cs",
+              "RelativeDocumentMoniker": "Webapi\\dto\\sublistdto.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\Webapi\\Webapi\\dto\\sublistdto.cs",
+              "RelativeToolTip": "Webapi\\dto\\sublistdto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T15:45:23.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "planController.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\Webapi\\Webapi\\Controllers\\planController.cs",
+              "RelativeDocumentMoniker": "Webapi\\Controllers\\planController.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\Webapi\\Webapi\\Controllers\\planController.cs",
+              "RelativeToolTip": "Webapi\\Controllers\\planController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAEIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T15:29:58.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "planrepo.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\Webapi\\Webapi\\repo\\planrepo.cs",
+              "RelativeDocumentMoniker": "Webapi\\repo\\planrepo.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\Webapi\\Webapi\\repo\\planrepo.cs",
+              "RelativeToolTip": "Webapi\\repo\\planrepo.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T14:34:14.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "subscriptionController.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\Webapi\\Webapi\\Controllers\\subscriptionController.cs",
+              "RelativeDocumentMoniker": "Webapi\\Controllers\\subscriptionController.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\Webapi\\Webapi\\Controllers\\subscriptionController.cs",
+              "RelativeToolTip": "Webapi\\Controllers\\subscriptionController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwC8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T12:49:53.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "subscription.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\Webapi\\Webapi\\models\\subscription.cs",
+              "RelativeDocumentMoniker": "Webapi\\models\\subscription.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\Webapi\\Webapi\\models\\subscription.cs",
+              "RelativeToolTip": "Webapi\\models\\subscription.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T11:11:33.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appuser.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\Webapi\\Webapi\\models\\appuser.cs",
+              "RelativeDocumentMoniker": "Webapi\\models\\appuser.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\Webapi\\Webapi\\models\\appuser.cs",
+              "RelativeToolTip": "Webapi\\models\\appuser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T14:48:01.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "subsrepo.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\Webapi\\Webapi\\repo\\subsrepo.cs",
+              "RelativeDocumentMoniker": "Webapi\\repo\\subsrepo.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\Webapi\\Webapi\\repo\\subsrepo.cs",
+              "RelativeToolTip": "Webapi\\repo\\subsrepo.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T14:36:44.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Isubsrepo.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\Webapi\\Webapi\\repo\\Isubsrepo.cs",
+              "RelativeDocumentMoniker": "Webapi\\repo\\Isubsrepo.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\Webapi\\Webapi\\repo\\Isubsrepo.cs",
+              "RelativeToolTip": "Webapi\\repo\\Isubsrepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T14:37:24.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\Webapi\\Webapi\\Program.cs",
+              "RelativeDocumentMoniker": "Webapi\\Program.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\Webapi\\Webapi\\Program.cs",
+              "RelativeToolTip": "Webapi\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAcwDUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T10:04:23.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "subdto.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\Webapi\\Webapi\\dto\\subdto.cs",
+              "RelativeDocumentMoniker": "Webapi\\dto\\subdto.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\Webapi\\Webapi\\dto\\subdto.cs",
+              "RelativeToolTip": "Webapi\\dto\\subdto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T14:15:42.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Iplanrepo.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\Webapi\\Webapi\\repo\\Iplanrepo.cs",
+              "RelativeDocumentMoniker": "Webapi\\repo\\Iplanrepo.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\Webapi\\Webapi\\repo\\Iplanrepo.cs",
+              "RelativeToolTip": "Webapi\\repo\\Iplanrepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T14:37:03.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "userController.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\Webapi\\Webapi\\Controllers\\userController.cs",
+              "RelativeDocumentMoniker": "Webapi\\Controllers\\userController.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\Webapi\\Webapi\\Controllers\\userController.cs",
+              "RelativeToolTip": "Webapi\\Controllers\\userController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T19:10:33.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\Webapi\\Webapi\\appsettings.json",
+              "RelativeDocumentMoniker": "Webapi\\appsettings.json",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\Webapi\\Webapi\\appsettings.json",
+              "RelativeToolTip": "Webapi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-15T12:53:03.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Webapi",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\Webapi\\Webapi\\Webapi.csproj",
+              "RelativeDocumentMoniker": "Webapi\\Webapi.csproj",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\Webapi\\Webapi\\Webapi.csproj",
+              "RelativeToolTip": "Webapi\\Webapi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-27T14:32:33.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "regesterdto.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\Webapi\\Webapi\\dto\\regesterdto.cs",
+              "RelativeDocumentMoniker": "Webapi\\dto\\regesterdto.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\Webapi\\Webapi\\dto\\regesterdto.cs",
+              "RelativeToolTip": "Webapi\\dto\\regesterdto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T18:58:32.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "plandto.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\Webapi\\Webapi\\dto\\plandto.cs",
+              "RelativeDocumentMoniker": "Webapi\\dto\\plandto.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\Webapi\\Webapi\\dto\\plandto.cs",
+              "RelativeToolTip": "Webapi\\dto\\plandto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T12:42:24.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appcontext.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\Webapi\\Webapi\\models\\appcontext.cs",
+              "RelativeDocumentMoniker": "Webapi\\models\\appcontext.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\Webapi\\Webapi\\models\\appcontext.cs",
+              "RelativeToolTip": "Webapi\\models\\appcontext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T14:09:03.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "logindto.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\Webapi\\Webapi\\dto\\logindto.cs",
+              "RelativeDocumentMoniker": "Webapi\\dto\\logindto.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\Webapi\\Webapi\\dto\\logindto.cs",
+              "RelativeToolTip": "Webapi\\dto\\logindto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T11:51:45.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "plan.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\Webapi\\Webapi\\models\\plan.cs",
+              "RelativeDocumentMoniker": "Webapi\\models\\plan.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\Webapi\\Webapi\\models\\plan.cs",
+              "RelativeToolTip": "Webapi\\models\\plan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T11:14:10.993Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "mTnf1nysPmthuw6O4wL3fyB0uiMXT4hBOv261dSSJFA=",
+  "Source": "Webapi",
+  "BasePath": "_content/Webapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Webapi\\wwwroot",
+      "Source": "Webapi",
+      "ContentRoot": "E:\\mohamed mahdy\\c#\\Webapi\\Webapi\\wwwroot\\",
+      "BasePath": "_content/Webapi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\mohamed mahdy\\c#\\Webapi\\Webapi\\wwwroot\\htmlpage.html",
+      "SourceId": "Webapi",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\mohamed mahdy\\c#\\Webapi\\Webapi\\wwwroot\\",
+      "BasePath": "_content/Webapi",
+      "RelativePath": "htmlpage.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\htmlpage.html"
+    }
+  ]
+}
